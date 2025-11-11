@@ -103,15 +103,3 @@ The application can detect and extract the following invoice fields:
 - The confidence threshold for detection is set to 0.4 (configurable in the `predict` function)
 - Image size for detection is set to 640x640 pixels by default
 
-## License
-
-[Add your license information here]
-
-## Contributing
-
-[Add contribution guidelines if applicable]
-
-## Author
-
-[Add your name/contact information here]
-
